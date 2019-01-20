@@ -1,0 +1,25 @@
+body {
+  background-color: #e9fadd;
+  font-family: "DFKai-SB";
+}
+
+h1 {
+  color: #66BFBF;
+
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+img{
+  border-radius: 18px
+}
+
+hr {
+  border-color: green;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  width:10%;
+}
